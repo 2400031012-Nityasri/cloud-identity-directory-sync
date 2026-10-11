@@ -1,0 +1,4 @@
+user_id,first_name,last_name,email,group,status
+101,Nitya,Degala,nitya@example.com,Students,active
+102,Rahul,Sharma,rahul.sharma@example.com,Students,active
+103,Priya,Reddy,priya@example.com,Testing group,inactive

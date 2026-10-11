@@ -1,0 +1,9 @@
+
+cloudsync-frontend/node_modules/
+cloudsync-frontend/dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.key

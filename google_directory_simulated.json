@@ -1,0 +1,26 @@
+{
+  "101": {
+    "user_id": "101",
+    "first_name": "Nitya",
+    "last_name": "Degala",
+    "email": "nitya@example.com",
+    "group": "Students",
+    "status": "active"
+  },
+  "102": {
+    "user_id": "102",
+    "first_name": "Rahul",
+    "last_name": "Sharma",
+    "email": "rahul.sharma@example.com",
+    "group": "Students",
+    "status": "active"
+  },
+  "103": {
+    "user_id": "103",
+    "first_name": "Priya",
+    "last_name": "Reddy",
+    "email": "priya@example.com",
+    "group": "Testing group",
+    "status": "inactive"
+  }
+}
